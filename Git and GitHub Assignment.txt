@@ -1,0 +1,41 @@
+﻿Git and Github Assignment Solutions
+
+
+1.What is Git?
+Ans: Git is a developed ops tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to track changes in the source code, enabling multiple developers to work together on non-linear development.
+
+
+2.what do you understand by the term ‘version control system’?
+Ans: A version control system is a software that tracks changes to a file or set of files over time so that you can recall specific versions later. It also allows you to work together with other programmers.
+                                                  The version control system is a collection of software tools that help a team to manage changes in a source code. It uses a special kind of database to keep track of every modification to the code.
+Developers can compare earlier versions of the code with an older version to fix the mistakes.
+
+
+3.what is GitHub?
+Ans: Github is an online software development platform.it’s used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with other developers on open-source projects.
+
+
+4.mention some popular Git hosting services.
+Ans: GitHub,GitLab,BitBucket and codebase etc .Those are some popular git hosting services.
+
+
+5.Different types of version control systems.
+Ans: There are basically three types of version control system : 
+a.Local version control system
+b.Centralized version control system
+c.Distributed version control system
+
+
+6.what benefit come with using Git?
+Ans: If we use Git then it provide multiple features i.e : 
+1. It provide remote working facilities
+2. It provide track changes
+3. In any case the local system will be damaged, in this case all the files will be corrupted but Git provides a facility for saving  project files in the git server.
+4.  It saves time for developers
+5. Undo mistakes etc .
+7.what is a git repository ?
+Ans: The repositories of Github act as essential places for storing the files while maintaining the versions of development. By using GitHub repositories developers can organize, monitor, and save their changes of code to their projects in remote environments. The files in the GitHub repository are imported from the repository into the local server of the user for further updates and modifications in the content of the file.
+
+
+8.How can you initialize a repository in Git ?
+Ans:  Using git keyword i.e:- git init
